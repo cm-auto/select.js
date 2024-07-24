@@ -1,7 +1,7 @@
 {
-  "name": "lib-name",
-  "version": "0.1.0",
-  "description": "lib description",
+  "name": "select.js",
+  "version": "0.2.0",
+  "description": "JavaScript Promises based library that allows you to search the DOM for elements that might be added later.",
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "jest": "^29.7.0",
